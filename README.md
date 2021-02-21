@@ -1,16 +1,4 @@
-# spacesafari
+# Space Safari
+Inspired by the theme of the night sky, we set out to create a mobile application that can execute real-time constellation detection. Since most people have a difficult time recognizing constellations, they can simply point their camera towards the sky to find a specific star or pattern.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Using AR, ML and geolocation APIs, this app encourages everyone to take a break from their hectic daily lives and go enjoy the outdoors.
